@@ -1,5 +1,9 @@
-res://source/levels/main_scene.tscn
 res://source/entities/player/player.tscn
-res://source/interface/side_menu.tscn
+res://source/entities/player/player.gd
+res://source/levels/main_scene.tscn
+res://source/entities/enemies/enemy_chaser.tscn
 res://source/entities/enemies/enemy_base.tscn
 res://source/entities/enemies/enemy_test.tscn
+res://source/entities/entity_base/entity_base.gd
+res://source/entities/enemies/enemy_phaser.tscn
+res://source/entities/enemies/enemy_phaser.gd
